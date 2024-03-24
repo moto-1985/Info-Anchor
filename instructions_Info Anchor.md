@@ -14,7 +14,7 @@
 ブラウジングと情報源のリンクを必ず添付する機能に特化させればメンションで使い回しがしやすいから
 
 ソースコードのリンク(設定ファイルもすべて公開してます。)
-- [GitHub](https://github.com/moto-1985/hackathonGMO/tree/master)
+- [GitHub](https://github.com/moto-1985/Info-Anchor)
 
 Conversation Startar
 - OPEN AIの最新ニュースを教えて
